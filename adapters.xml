@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<adapters_conf id="TASK">
+    <metadata_provider>
+        <adapter_class>TaskMetadataAdapter</adapter_class>
+    </metadata_provider>
+    <data_provider name="TASKADAPTER">
+        <adapter_class>TaskAdapter</adapter_class>
+    </data_provider>
+</adapters_conf>
